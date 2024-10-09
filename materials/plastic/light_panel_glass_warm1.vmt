@@ -1,6 +1,20 @@
-UnlitGeneric
+LightMappedGeneric
 {
-$basetexture "Lights/White004"
-$surfaceprop glass
-$nodecal 1
+$baseTexture "plastic/light_panel_glass_warm1"
+$translucent 1
+//$additive 1
+$selfillum 1
+
+"%noportal" 1
+
+
+
+
+
+
+
+
+
+
+
 }
