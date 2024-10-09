@@ -1,0 +1,21 @@
+"GameInfo"
+{
+	game 			"The Stanley Parable: Alpha Remake"
+	GameData		"stanley.fgd"
+
+	gamelogo			"1"
+	icon			"resource/icon"
+
+	type			"singleplayer_only"
+
+	FileSystem
+	{
+		SteamAppId	221910
+		ToolsAppId	211
+
+		SearchPaths
+		{
+			Game	|gameinfo_path|.
+			Game	|All_Source_Engine_Paths|thestanleyparable			}
+	}
+}
