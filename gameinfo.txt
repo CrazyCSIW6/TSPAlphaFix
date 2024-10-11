@@ -16,6 +16,8 @@
 		SearchPaths
 		{
 			Game	|gameinfo_path|.
-			Game	|All_Source_Engine_Paths|thestanleyparable			}
+			Game	|All_Source_Engine_Paths|thestanleyparable
+			Game	"D:\SteamLibrary\steamapps\common\The Stanley Parable\thestanleyparable"
+			}
 	}
 }
