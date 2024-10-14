@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mapnames/test"
+	"$translucent" 1
+}

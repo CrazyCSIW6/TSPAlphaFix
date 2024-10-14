@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.zen_final_bridge"
+    {
+      time 0.000000 2.046939
+      param "narration.zen_final_bridge"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

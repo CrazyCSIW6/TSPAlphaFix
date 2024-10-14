@@ -1,0 +1,23 @@
+// Choreo version 1
+actor "narrator"
+{
+  channel "voice"
+  {
+    event speak "narration.zen_a6"
+    {
+      time 0.000000 2.296553
+      param "narration.zen_a6"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

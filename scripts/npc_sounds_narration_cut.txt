@@ -1,0 +1,151 @@
+"narration.con3"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/con3.wav"
+}
+//Auto-generated with the batch script!
+"narration.con10"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/con10.wav"
+}
+//Auto-generated with the batch script!
+"narration.con18"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/con18.wav"
+}
+//Auto-generated with the batch script!
+"narration.con20"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"stanley/con20.wav"
+}
+//Auto-generated with the batch script!
+"narration.con21"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/con21.wav"
+}
+//Auto-generated with the batch script!
+"narration.con22"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/con22.wav"
+}
+//Auto-generated with the batch script!
+"narration.monitors_2"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/monitors_2.wav"
+}
+//Auto-generated with the batch script!
+"narration.portal_4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/portal_4.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_a6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_a6.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_b4"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_b4.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_b8"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_b8.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_c6"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_c6.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_c9"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_c9.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_final_bridge"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_final_bridge.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_final_button"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_final_button.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_final_orange"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_final_orange.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_final_river"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_final_river.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_final_roof"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_final_roof.wav"
+}
+//Auto-generated with the batch script!
+"narration.zen_final_snow"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	"wave"	"#stanley/zen_final_snow.wav"
+}
